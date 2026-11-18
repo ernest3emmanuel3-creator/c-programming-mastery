@@ -25,7 +25,7 @@ int main(){
                 dr++;
             }
             else if(choice1==1 && choice2==2 || choice1==2 && choice2==3 || choice1==3 && choice2==1){
-                    printf("Computer 2 wins\n");
+                    printf("Computer wins\n");
                     p2++;
         
             }else
